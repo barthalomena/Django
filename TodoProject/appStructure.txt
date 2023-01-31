@@ -1,0 +1,38 @@
+|ToDoProject
+|    |
+     +------todos(app folder)
+     |
+     |
+     +--------+miggrations
+     |         |
+     |         |
+     +--------+static
+     |        |
+     |        |
+     |        +----todos
+     |        |     |
+     |        |     +--style.css
+     |        |
+     |        |
+     |        |
+     +--------+templates
+     |    |  |
+     |    |  |
+     |    |--+--todos
+     |    |    |
+     |    |    |
+     |    |    |
+     |    |    +---todo_list.html
+     |    |
+     |    |
+     |    +-models.py
+     |    +-urls.py
+     |    +-views.py
+     |
+     |
+     +ToDoProject
+          |
+          |
+          |
+          +--SETTINGS.py
+          +--URLS.PY
